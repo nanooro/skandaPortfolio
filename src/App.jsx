@@ -6,7 +6,9 @@ function App() {
           className="font-bold text-6xl break-all max-w-[200px] text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-pink-400"
           id="headingText"
         >
-          Hi ,im skanda
+          Hi ,im
+          <br />
+          skanda
         </h1>
       </div>
     </div>
